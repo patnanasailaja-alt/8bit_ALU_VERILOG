@@ -23,6 +23,7 @@ b [7:0] – Second 8-bit input
 Result [7:0] – 8-bit output of the selected operation
 
 ⚙️ Operations
+
 The ALU performs multiple arithmetic and logical operations based on the selected opcode, including:
 
 Addition - 000
