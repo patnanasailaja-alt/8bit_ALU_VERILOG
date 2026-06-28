@@ -6,12 +6,12 @@ This project presents the design and functional verification of an 8-Bit Arithme
 
 🛠️ Tools Used
 
-Verilog HDL – RTL Design
-Visual Studio Code – Code Editor
-Icarus Verilog – Simulation
-GTKWave – Waveform Analysis
-Xilinx Vivado – RTL Design and Project Development
-Git & GitHub – Version Control
+- Verilog HDL – RTL Design
+- Visual Studio Code – Code Editor
+- Icarus Verilog – Simulation
+- GTKWave – Waveform Analysis
+- Xilinx Vivado – RTL Design and Project Development
+- Git & GitHub – Version Control
 
 📥 Inputs
 a [7:0] – First 8-bit input
@@ -41,28 +41,31 @@ The design was successfully simulated using Icarus Verilog, and the outputs were
 
 Through this project, I gained practical experience in:
 
-RTL Design using Verilog HDL
-Writing and testing Verilog modules
-Functional verification using testbenches
-Simulation with Icarus Verilog
-Waveform analysis using GTKWave
-Managing RTL projects using Vivado
-Using Git and GitHub for project documentation and version control
+* RTL Design using Verilog HDL
+* Writing and testing Verilog modules
+* Functional verification using testbenches
+* Simulation with Icarus Verilog
+* Waveform analysis using GTKWave
+* Managing RTL projects using Vivado
+* Using Git and GitHub for project documentation and version control
 
 🚀 Future Improvements
+
 Possible enhancements include:
 
-Adding more arithmetic and logical operations
-Implementing additional status flags
-Optimizing the design for area, power, and timing
-Extending verification with more comprehensive test cases
-Implementing the design on FPGA hardware
+# Adding more arithmetic and logical operations
+# Implementing additional status flags
+# Optimizing the design for area, power, and timing
+# Extending verification with more comprehensive test cases
+# Implementing the design on FPGA hardware
 
 🔗 GitHub Repository
+
 Repository:
 Add your GitHub repository link here.
 
 👩‍💻 Author
+
 SAILAJA PATNANA
 B.Tech (EEE) Student
 Interested in VLSI Front-End Design, RTL Design, and Verification
