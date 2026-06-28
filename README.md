@@ -15,12 +15,13 @@ This project presents the design and functional verification of an 8-Bit Arithme
 
 📥 Inputs
 
-a [7:0] – First 8-bit input
-b [7:0] – Second 8-bit input
-
+- a [7:0] – First 8-bit input
+- b [7:0] – Second 8-bit input
+- sel[2:0] - Three 3-bit input
+- 
 📤 Outputs
 
-Result [7:0] – 8-bit output of the selected operation
+- Result [7:0] – 8-bit output of the selected operation
 
 ⚙️ Operations
 
@@ -69,6 +70,6 @@ Add your GitHub repository link here.
 
 👩‍💻 Author
 
-SAILAJA PATNANA
-B.Tech (EEE) Student
-Interested in VLSI Front-End Design, RTL Design, and Verification
+* SAILAJA PATNANA
+* B.Tech (EEE) Student
+* Interested in VLSI Front-End Design, RTL Design, and Verification
