@@ -66,7 +66,8 @@ Possible enhancements include:
 🔗 GitHub Repository
 
 Repository:
-Add your GitHub repository link here.
+-github.com/patnanasailaja-alt/8bit_ALU_VERILOG
+
 
 👩‍💻 Author
 
