@@ -26,14 +26,14 @@ Result [7:0] – 8-bit output of the selected operation
 
 The ALU performs multiple arithmetic and logical operations based on the selected opcode, including:
 
-Addition - 000
-Subtraction - 001
-Bitwise AND - 010
-Bitwise OR - 011
-Bitwise XOR - 100
-Bitwise NOT - 101
-Left Shift - 110
-Right Shift - 111
+- Addition - 000
+- Subtraction - 001
+- Bitwise AND - 010
+- Bitwise OR - 011
+- Bitwise XOR - 100
+- Bitwise NOT - 101
+- Left Shift - 110
+- Right Shift - 111
 
 
 🧪 Results
@@ -56,11 +56,11 @@ Through this project, I gained practical experience in:
 
 Possible enhancements include:
 
-# Adding more arithmetic and logical operations
-# Implementing additional status flags
-# Optimizing the design for area, power, and timing
-# Extending verification with more comprehensive test cases
-# Implementing the design on FPGA hardware
+* Adding more arithmetic and logical operations
+* Implementing additional status flags
+* Optimizing the design for area, power, and timing
+* Extending verification with more comprehensive test cases
+* Implementing the design on FPGA hardware
 
 🔗 GitHub Repository
 
