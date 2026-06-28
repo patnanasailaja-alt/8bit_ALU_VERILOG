@@ -1,4 +1,4 @@
-🚀 8-Bit Arithmetic Logic Unit (ALU) Using Verilog HDL
+#🚀 8-Bit Arithmetic Logic Unit (ALU) Using Verilog HDL
 
 📖 Project Overview
 
