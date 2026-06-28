@@ -14,10 +14,12 @@ This project presents the design and functional verification of an 8-Bit Arithme
 - Git & GitHub – Version Control
 
 📥 Inputs
+
 a [7:0] – First 8-bit input
 b [7:0] – Second 8-bit input
 
 📤 Outputs
+
 Result [7:0] – 8-bit output of the selected operation
 
 ⚙️ Operations
